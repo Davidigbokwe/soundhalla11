@@ -259,24 +259,21 @@ function Index() {
         </div>
       </section>
 
-      {/* CTA */}
+      {/* Join community */}
       <section className="py-20 sm:py-28">
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
           <div className="relative overflow-hidden rounded-3xl bg-surface px-6 py-16 text-center sm:px-12 lg:py-20 glow-brand">
             <div className="absolute inset-0 bg-noise" aria-hidden="true" />
             <div className="relative">
               <h2 className="text-3xl font-bold tracking-tight sm:text-4xl lg:text-5xl">
-                Ready to get your music heard?
+                Join a community
               </h2>
               <p className="mx-auto mt-4 max-w-2xl text-muted-foreground">
-                Join thousands of Artists using Soundhalla to land playlist placements, grow their
-                audience and get paid for their work.
+                Connect with other Artists, get tips, and stay updated on playlist opportunities.
               </p>
               <div className="mt-8 flex flex-wrap justify-center gap-4">
-                <a href="https://wa.me/2348056679806" target="_blank" rel="noopener noreferrer">
-                  <Button size="lg" className="gap-2">
-                    Get playlisted
-                  </Button>
+                <a href="https://chat.whatsapp.com/IDVtTHowperDhokD6c2QCM?s=sw&p=i&mlu=4&amv=0" target="_blank" rel="noopener noreferrer">
+                  <Button size="lg">Join WhatsApp group</Button>
                 </a>
               </div>
             </div>
@@ -287,12 +284,12 @@ function Index() {
       {/* Footer */}
       <footer className="border-t border-border bg-surface py-12">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col items-center justify-between gap-6 md:flex-row">
+          <div className="flex flex-col items-center justify-center gap-6 md:flex-row md:justify-between">
             <BrandName />
             <p className="text-sm text-muted-foreground">
               © {new Date().getFullYear()} Soundhalla. Helping Artists Get Heard.
             </p>
-            <div className="flex items-center gap-6 text-sm text-muted-foreground">
+            <div className="flex flex-wrap items-center justify-center gap-6 text-sm text-muted-foreground">
               <a href="#" className="transition-colors hover:text-foreground">
                 Privacy
               </a>
@@ -302,11 +299,8 @@ function Index() {
               <a href="https://wa.me/2348056679806" className="transition-colors hover:text-foreground">
                 +234 805 667 9806
               </a>
-              <a href="mailto:Support@soundhalla.com" className="transition-colors hover:text-foreground">
+              <a href="mailto:support@soundhalla.com" className="transition-colors hover:text-foreground">
                 support@soundhalla.com
-              </a>
-              <a href="https://github.com/Davidigbokwe/soundhalla11" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-foreground">
-                GitHub
               </a>
             </div>
           </div>
