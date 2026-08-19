@@ -305,6 +305,9 @@ function Index() {
               <a href="mailto:Support@soundhalla.com" className="transition-colors hover:text-foreground">
                 support@soundhalla.com
               </a>
+              <a href="https://github.com/Davidigbokwe/soundhalla11" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-foreground">
+                GitHub
+              </a>
             </div>
           </div>
         </div>
