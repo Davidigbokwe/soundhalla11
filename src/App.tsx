@@ -107,7 +107,7 @@ function Index() {
             </a>
           </nav>
           <div className="flex items-center gap-3">
-            <a href="https://wa.me/2348056679806" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/2348168047506" target="_blank" rel="noopener noreferrer">
               <Button size="sm">Get playlisted</Button>
             </a>
           </div>
@@ -136,7 +136,7 @@ function Index() {
                 Artists turn streams into fans and fans into income.
               </p>
               <div className="mt-8 flex flex-wrap items-center gap-4">
-                <a href="https://wa.me/2348056679806" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/2348168047506" target="_blank" rel="noopener noreferrer">
                   <Button size="lg" className="gap-2">
                     Get playlisted
                   </Button>
@@ -296,8 +296,8 @@ function Index() {
               <a href="#" className="transition-colors hover:text-foreground">
                 Terms
               </a>
-              <a href="https://wa.me/2348056679806" className="transition-colors hover:text-foreground">
-                +234 805 667 9806
+              <a href="https://wa.me/2348168047506" className="transition-colors hover:text-foreground">
+                +234 816 804 7506
               </a>
               <a href="mailto:support@soundhalla.com" className="transition-colors hover:text-foreground">
                 support@soundhalla.com
